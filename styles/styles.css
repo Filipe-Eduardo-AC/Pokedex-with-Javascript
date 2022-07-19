@@ -66,3 +66,8 @@ h1 {
   margin: 15px 0 7px;
   letter-spacing: 1px;
 }
+
+#logo {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}

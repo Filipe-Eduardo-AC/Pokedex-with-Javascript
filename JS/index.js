@@ -1,20 +1,24 @@
 const poke_container = document.getElementById("poke_container");
 const pokemons_number = 151;
 const colors = {
-  fire: "#FDDFDF",
-  grass: "#DEFDE0",
-  water: "#DEF3FD",
-  electric: "#FCF7DE",
-  ground: "#f4e7da",
-  rock: "#d5d5d4",
-  fairy: "#fceaff",
-  poison: "#98d7a5",
-  bug: "#f8d5a3",
-  dragon: "#97b3e6",
-  psychic: "#eaeda1",
-  flying: "#F5F5F5",
-  fighting: "#E6E0D4",
-  normal: "#F5F5F5",
+  fire: "#f17c23",
+  grass: "#7dcc4f",
+  water: "#6888ef",
+  electric: "#e9ca2a",
+  ground: "#e6c76e",
+  rock: "#bba32f",
+  fairy: "#d6a4d0",
+  poison: "#9f44a4",
+  bug: "#a7b826",
+  dragon: "#6f37ee",
+  psychic: "#c84569",
+  flying: "#c097ea",
+  fighting: "#c42a1f",
+  normal: "#abae7a",
+  steel: "#b7b8d3",
+  dark: "#6d503f",
+  ghost: "#725f8d",
+  ice: "#94dbd7",
 };
 const main_types = Object.keys(colors);
 
